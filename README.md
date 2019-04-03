@@ -1,7 +1,7 @@
 # Awesome Human Robot Interaction
 
 ## Papers
-Stars are a porsonal opinion of the importance regarding to our work.
+Stars are porsonal opinions of the importance regarding to our work.
 
 ### 2019
 - Unsupervised Feature Learning of Human Actions as Trajectories in Pose Embedding Manifold 
