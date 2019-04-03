@@ -1,8 +1,8 @@
-# awesome-human-robot
-A curated list of awesome human-robot motion papers and resources.
+# Awesome Human Robot Interaction
 
-Stars are a porsonal opinion of the importance regarding to our work.
 ## Papers
+Stars are a porsonal opinion of the importance regarding to our work.
+
 ### 2019
 - Unsupervised Feature Learning of Human Actions as Trajectories in Pose Embedding Manifold 
 Kundu, Jogendra Nath, et al. IEEE Winter Conference on Applications of Computer Vision (WACV) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8658966)  
