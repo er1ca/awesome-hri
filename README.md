@@ -27,7 +27,6 @@ arXiv preprint arXiv:1707.00823 2017 [[pdf]](https://arxiv.org/pdf/1707.00823.pd
 
 
 
-
 ## Datasets
 
 
@@ -39,12 +38,11 @@ NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis [[pdf]](https://
 ##### Dataset
 http://rose1.ntu.edu.sg/datasets/actionrecognition.asp
 
-## VR - Unreal tutorials
-### Unreal Blog  
-https://www.unrealengine.com/ko/feed  
+## VR Simulator
+-  habitat-api
+: Facebook Research github https://github.com/facebookresearch/habitat-api
 
-### Document  
-http://api.unrealengine.com/KOR/index.html  
-
-### Video Tutorial  
-https://academy.unrealengine.com/
+- Unreal Environment 
+: Unreal Blog  https://www.unrealengine.com/ko/feed  
+: Unreal Documents http://api.unrealengine.com/KOR/index.html  
+: Video Tutorial https://academy.unrealengine.com/
