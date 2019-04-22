@@ -7,20 +7,20 @@
 Stars are porsonal opinions of the importance regarding to our work.
 
 ### 2019
-- Unsupervised Feature Learning of Human Actions as Trajectories in Pose Embedding Manifold ★★★☆☆
+- Unsupervised Feature Learning of Human Actions as Trajectories in Pose Embedding Manifold ★★★☆☆  
 Kundu, Jogendra Nath, et al. IEEE Winter Conference on Applications of Computer Vision (WACV) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8658966)  
 
 - VR-Goggles for Robots: Real-to-sim Domain Adaptation for Visual Control ★★★★★  
 IEEE Robotics and Automation Letters, 2019 [[pdf]](https://sites.google.com/view/zhang-tai-19ral-vrg/home)  
 
 ### 2018 
-- Deep Imitation Learning for Complex Manipulation Tasks from Virtual Reality Teleoperation ★★★★★
+- Deep Imitation Learning for Complex Manipulation Tasks from Virtual Reality Teleoperation ★★★★★  
 IEEE International Conference on Robotics and Automation (ICRA) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8461249)  
 
-- Robot Learning from Human Demonstration in Virtual Reality ★★★★☆
+- Robot Learning from Human Demonstration in Virtual Reality ★★★★☆  
 ACM/IEEE International Conference on Human Robot Interaction (HRI) 2018 [[pdf]](https://www.researchgate.net/publication/324825053_Robot_Learning_from_Human_Demonstration_in_Virtual_Reality)  
 
-- Baxter's Homunculus: Virtual Reality Spaces for Teleoperation in Manufacturing  ★★★★★
+- Baxter's Homunculus: Virtual Reality Spaces for Teleoperation in Manufacturing  ★★★★★  
 IEEE Robotics and Automation Letters [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8003431)
 
 ### 2017
