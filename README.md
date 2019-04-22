@@ -47,4 +47,4 @@ NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis
 : Video Tutorial https://academy.unrealengine.com/
 
 
-![](https://github.com/er1ca/awesome-hri/blob/master/anim-test03.gif){.alignright}
+![](https://github.com/er1ca/awesome-hri/blob/master/anim-test03.gif){:.alignright}
