@@ -27,6 +27,9 @@ IEEE Robotics and Automation Letters [[pdf]](https://ieeexplore.ieee.org/stamp/s
 - Learning human pose models from synthesized data for robust rgb-d action recognition ★★★★☆  
 arXiv preprint arXiv:1707.00823 2017 [[pdf]](https://arxiv.org/pdf/1707.00823.pdf)  
 
+### Before 2010
+- Teaching and learning of robot tasks via observation of human performance ★★★☆☆  
+Elsevier Robotics and Autonomous Systems, 2004 [[pdf]](https://www.sciencedirect.com/science/article/pii/S0921889004000417)  
 
 
 ## Datasets
