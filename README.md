@@ -1,9 +1,10 @@
-# Awesome Human Robot Interaction
----
+
+------------------------------------
+Awesome Human Robot Interaction
+====================================
 
 ## Papers
 Stars are porsonal opinions of the importance regarding to our work.
----
 
 ### 2019
 - Unsupervised Feature Learning of Human Actions as Trajectories in Pose Embedding Manifold ★★★☆☆
@@ -28,7 +29,7 @@ arXiv preprint arXiv:1707.00823 2017 [[pdf]](https://arxiv.org/pdf/1707.00823.pd
 
 
 ## Datasets
----
+
 
 #### NTU DB
 ##### Paper
