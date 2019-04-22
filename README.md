@@ -35,10 +35,8 @@ arXiv preprint arXiv:1707.00823 2017 [[pdf]](https://arxiv.org/pdf/1707.00823.pd
 #### NTU DB
 ##### Paper
 * The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2016  
-NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis [[pdf]](https://arxiv.org/pdf/1604.02808.pdf)
-
-##### Dataset
-http://rose1.ntu.edu.sg/datasets/actionrecognition.asp
+NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis 
+[[pdf]](https://arxiv.org/pdf/1604.02808.pdf) [[Dataset]](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp)
 
 ## VR Simulator
 -  habitat-api
