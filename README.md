@@ -27,6 +27,9 @@ IEEE International Conference on Robotics and Automation (ICRA) [[pdf]](https://
 - Robot Learning from Human Demonstration in Virtual Reality ★★★★☆  
 ACM/IEEE International Conference on Human Robot Interaction (HRI) 2018 [[pdf]](https://www.researchgate.net/publication/324825053_Robot_Learning_from_Human_Demonstration_in_Virtual_Reality)  
 
+- Synthetically Trained Neural Networks for Learning Human-Readable Plans from Real-World Demonstrations ★★★★☆    
+IEEE International Conference on Robotics and Automation (ICRA) 2018. [[pdf]](https://arxiv.org/abs/1805.07054) [[Youtube link]](https://www.youtube.com/watch?time_continue=75&v=B7ZT5oSnRys)  
+
 - Baxter's Homunculus: Virtual Reality Spaces for Teleoperation in Manufacturing  ★★★☆☆  
 IEEE Robotics and Automation Letters [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8003431) 
 [[Youtube link]](https://www.youtube.com/watch?v=4a-W3Od5-t8)  
@@ -35,7 +38,10 @@ IEEE Robotics and Automation Letters [[pdf]](https://ieeexplore.ieee.org/stamp/s
 - Learning human pose models from synthesized data for robust rgb-d action recognition ★★★★☆  
 arXiv preprint arXiv:1707.00823 2017 [[pdf]](https://arxiv.org/pdf/1707.00823.pdf)  
 
-### Before 2010
+### Before 2015
+- Teleoperation of a humanoid robot using full-body motion capture,example movements, and machine learning ★★★★☆  
+[[pdf]](http://staff.scm.uws.edu.au/~anton/Publications/acra_2012.pdf)  
+
 - Teaching and learning of robot tasks via observation of human performance ★★★☆☆  
 Elsevier Robotics and Autonomous Systems, 2004 [[pdf]](https://www.sciencedirect.com/science/article/pii/S0921889004000417)  
 
