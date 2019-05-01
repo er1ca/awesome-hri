@@ -18,13 +18,16 @@ IEEE Robotics and Automation Letters, 2019 [[pdf]](https://sites.google.com/view
 IEEE International Conference on Robotics and Automation (ICRA) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8461249)  
 
 - ROS Reality: A Virtual Reality Framework Using Consumer-Grade Hardware for ROS-Enabled Robots ★★★★☆  
-2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593513s)  
+2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
+[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593513s) 
+[[Youtube link]](https://www.youtube.com/watch?v=Aw3713v7xzQ)  
 
 - Robot Learning from Human Demonstration in Virtual Reality ★★★★☆  
 ACM/IEEE International Conference on Human Robot Interaction (HRI) 2018 [[pdf]](https://www.researchgate.net/publication/324825053_Robot_Learning_from_Human_Demonstration_in_Virtual_Reality)  
 
 - Baxter's Homunculus: Virtual Reality Spaces for Teleoperation in Manufacturing  ★★★☆☆  
-IEEE Robotics and Automation Letters [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8003431)
+IEEE Robotics and Automation Letters [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8003431) 
+[[Youtube link]](https://www.youtube.com/watch?v=4a-W3Od5-t8)  
 
 ### 2017
 - Learning human pose models from synthesized data for robust rgb-d action recognition ★★★★☆  
