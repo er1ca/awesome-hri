@@ -40,7 +40,7 @@ arXiv preprint arXiv:1707.00823 2017 [[pdf]](https://arxiv.org/pdf/1707.00823.pd
 
 ### Before 2015
 - Teleoperation of a humanoid robot using full-body motion capture,example movements, and machine learning ★★★★☆  
-[[pdf]](http://staff.scm.uws.edu.au/~anton/Publications/acra_2012.pdf)  
+Proceedings of Australasian Conference on Robotics and Automation, 3-5 Dec 2012 [[pdf]](http://staff.scm.uws.edu.au/~anton/Publications/acra_2012.pdf)  
 
 - Teaching and learning of robot tasks via observation of human performance ★★★☆☆  
 Elsevier Robotics and Autonomous Systems, 2004 [[pdf]](https://www.sciencedirect.com/science/article/pii/S0921889004000417)  
