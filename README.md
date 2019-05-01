@@ -15,7 +15,9 @@ IEEE Robotics and Automation Letters, 2019 [[pdf]](https://sites.google.com/view
 
 ### 2018 
 - Deep Imitation Learning for Complex Manipulation Tasks from Virtual Reality Teleoperation ★★★★★  
-IEEE International Conference on Robotics and Automation (ICRA) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8461249)  
+IEEE International Conference on Robotics and Automation (ICRA) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8461249) 
+[[Github]](https://github.com/h2r/parameterized-imitation-learning) 
+[[Youtube link]](https://www.youtube.com/watch?v=QkNNlfYG7kg)
 
 - ROS Reality: A Virtual Reality Framework Using Consumer-Grade Hardware for ROS-Enabled Robots ★★★★☆  
 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
