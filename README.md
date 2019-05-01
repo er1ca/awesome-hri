@@ -17,10 +17,13 @@ IEEE Robotics and Automation Letters, 2019 [[pdf]](https://sites.google.com/view
 - Deep Imitation Learning for Complex Manipulation Tasks from Virtual Reality Teleoperation ★★★★★  
 IEEE International Conference on Robotics and Automation (ICRA) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8461249)  
 
+- ROS Reality: A Virtual Reality Framework Using Consumer-Grade Hardware for ROS-Enabled Robots ★★★★☆  
+2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593513s)  
+
 - Robot Learning from Human Demonstration in Virtual Reality ★★★★☆  
 ACM/IEEE International Conference on Human Robot Interaction (HRI) 2018 [[pdf]](https://www.researchgate.net/publication/324825053_Robot_Learning_from_Human_Demonstration_in_Virtual_Reality)  
 
-- Baxter's Homunculus: Virtual Reality Spaces for Teleoperation in Manufacturing  ★★★★★  
+- Baxter's Homunculus: Virtual Reality Spaces for Teleoperation in Manufacturing  ★★★☆☆  
 IEEE Robotics and Automation Letters [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8003431)
 
 ### 2017
