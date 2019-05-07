@@ -9,7 +9,7 @@ Stars are porsonal opinions of the importance regarding to our work.
 ### 2019
 - Unsupervised Feature Learning of Human Actions as Trajectories in Pose Embedding Manifold ★★★☆☆  
 Kundu, Jogendra Nath, et al. IEEE Winter Conference on Applications of Computer Vision (WACV) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8658966)  
-(Virtual Reality, Teleoperation)
+[Virtual Reality, Teleoperation]  
 
 - VR-Goggles for Robots: Real-to-sim Domain Adaptation for Visual Control ★★★★★  
 IEEE Robotics and Automation Letters, 2019 [[pdf]](https://sites.google.com/view/zhang-tai-19ral-vrg/home)  
@@ -35,10 +35,12 @@ IEEE International Conference on Robotics and Automation (ICRA) 2018. [[pdf]](ht
 IEEE Robotics and Automation Letters [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8003431) 
 [[Youtube link]](https://www.youtube.com/watch?v=4a-W3Od5-t8)  
 
-[ Crowd sourcing ]
-A Reinforcement Learning Framework for Eliciting High Quality Information  
+
+- A Reinforcement Learning Framework for Eliciting High Quality Information  
 [[pdf]](https://pdfs.semanticscholar.org/1333/233fb20c36d715d382a06b2865e2dc03cabb.pdf)  
-(Crowd sourcing)
+[Crowd sourcing, Reinforcement learning]  
+
+  
 
 ### 2017
 - Learning human pose models from synthesized data for robust rgb-d action recognition ★★★★☆  
