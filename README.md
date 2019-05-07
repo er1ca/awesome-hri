@@ -2,7 +2,7 @@
 
 
 ## Papers
-Stars are porsonal opinions of the importance regarding to our work.
+Stars are totally porsonal opinions based on the relevance and importance in regard to our research project work in UST/ETRI.
 
 ### 2019
 [Virtual Reality, Teleoperation]
