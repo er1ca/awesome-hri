@@ -1,5 +1,3 @@
-
-
 # Awesome Human Robot Interaction
 
 
@@ -7,14 +5,16 @@
 Stars are porsonal opinions of the importance regarding to our work.
 
 ### 2019
+[Mimicking, Deep learning, ]
 - Unsupervised Feature Learning of Human Actions as Trajectories in Pose Embedding Manifold ★★★☆☆  
 Kundu, Jogendra Nath, et al. IEEE Winter Conference on Applications of Computer Vision (WACV) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8658966)  
-[Virtual Reality, Teleoperation]  
 
+[Virtual Reality, Teleoperation]
 - VR-Goggles for Robots: Real-to-sim Domain Adaptation for Visual Control ★★★★★  
 IEEE Robotics and Automation Letters, 2019 [[pdf]](https://sites.google.com/view/zhang-tai-19ral-vrg/home)  
 
 ### 2018 
+[Virtual Reality, Teleoperation]
 - Deep Imitation Learning for Complex Manipulation Tasks from Virtual Reality Teleoperation ★★★★★  
 IEEE International Conference on Robotics and Automation (ICRA) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8461249) 
 [[Github]](https://github.com/h2r/parameterized-imitation-learning) 
@@ -28,19 +28,18 @@ IEEE International Conference on Robotics and Automation (ICRA) [[pdf]](https://
 - Robot Learning from Human Demonstration in Virtual Reality ★★★★☆  
 ACM/IEEE International Conference on Human Robot Interaction (HRI) 2018 [[pdf]](https://www.researchgate.net/publication/324825053_Robot_Learning_from_Human_Demonstration_in_Virtual_Reality)  
 
-- Synthetically Trained Neural Networks for Learning Human-Readable Plans from Real-World Demonstrations ★★★★☆    
-IEEE International Conference on Robotics and Automation (ICRA) 2018. [[pdf]](https://arxiv.org/abs/1805.07054) [[Youtube link]](https://www.youtube.com/watch?time_continue=75&v=B7ZT5oSnRys)  
-
 - Baxter's Homunculus: Virtual Reality Spaces for Teleoperation in Manufacturing  ★★★☆☆  
 IEEE Robotics and Automation Letters [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8003431) 
 [[Youtube link]](https://www.youtube.com/watch?v=4a-W3Od5-t8)  
 
-
+[Crowd sourcing, Reinforcement learning]  
 - A Reinforcement Learning Framework for Eliciting High Quality Information  
 [[pdf]](https://pdfs.semanticscholar.org/1333/233fb20c36d715d382a06b2865e2dc03cabb.pdf)  
-[Crowd sourcing, Reinforcement learning]  
 
-  
+[Mimicking, Demonstration, Deep learning]
+- Synthetically Trained Neural Networks for Learning Human-Readable Plans from Real-World Demonstrations ★★★★☆    
+IEEE International Conference on Robotics and Automation (ICRA) 2018. [[pdf]](https://arxiv.org/abs/1805.07054) [[Youtube link]](https://www.youtube.com/watch?time_continue=75&v=B7ZT5oSnRys)  
+
 
 ### 2017
 - Learning human pose models from synthesized data for robust rgb-d action recognition ★★★★☆  
