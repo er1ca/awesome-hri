@@ -5,13 +5,13 @@
 Stars are porsonal opinions of the importance regarding to our work.
 
 ### 2019
-[Mimicking, Deep learning, ]
-- Unsupervised Feature Learning of Human Actions as Trajectories in Pose Embedding Manifold ★★★☆☆  
-Kundu, Jogendra Nath, et al. IEEE Winter Conference on Applications of Computer Vision (WACV) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8658966)  
-
 [Virtual Reality, Teleoperation]
 - VR-Goggles for Robots: Real-to-sim Domain Adaptation for Visual Control ★★★★★  
 IEEE Robotics and Automation Letters, 2019 [[pdf]](https://sites.google.com/view/zhang-tai-19ral-vrg/home)  
+
+[Mimicking, Deep learning]
+- Unsupervised Feature Learning of Human Actions as Trajectories in Pose Embedding Manifold ★★★☆☆  
+Kundu, Jogendra Nath, et al. IEEE Winter Conference on Applications of Computer Vision (WACV) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8658966)  
 
 ### 2018 
 [Virtual Reality, Teleoperation]
