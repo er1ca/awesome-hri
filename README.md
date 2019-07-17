@@ -45,6 +45,10 @@ IEEE International Conference on Robotics and Automation (ICRA) 2018. [[paper]](
 - Learning human pose models from synthesized data for robust rgb-d action recognition ★★★★☆  
 arXiv preprint arXiv:1707.00823 2017 [[paper]](https://arxiv.org/pdf/1707.00823.pdf)  
 
+[Sim to Real]  
+- Virtual to Real Reinforcement Learning for Autonomous Driving ★★★★★  
+[[paper]](https://www.researchgate.net/publication/316098277_Virtual_to_Real_Reinforcement_Learning_for_Autonomous_Driving) [[Youtube link]](https://www.youtube.com/watch?v=Bce2ZSlMuqY)  
+
 ### Before 2015
 - Teleoperation of a humanoid robot using full-body motion capture,example movements, and machine learning ★★★★☆  
 Proceedings of Australasian Conference on Robotics and Automation, 3-5 Dec 2012 [[paper]](http://staff.scm.uws.edu.au/~anton/Publications/acra_2012.pdf)  
@@ -56,7 +60,8 @@ Elsevier Robotics and Autonomous Systems, 2004 [[paper]](https://www.sciencedire
 ## Datasets
 
 #### RobotriX virtual DB
-* The RobotriX 2019 - Photorealistic Indoor Synthetic Dataset for Deep Learning [[Youtube link]](https://www.youtube.com/watch?time_continue=48&v=CiRc5tCtCak) [[paper]](https://arxiv.org/abs/1703.01270)
+* The RobotriX 2019 - Photorealistic Indoor Synthetic Dataset for Deep Learning ★★★★★  
+[[Youtube link]](https://www.youtube.com/watch?time_continue=48&v=CiRc5tCtCak) [[paper]](https://arxiv.org/abs/1703.01270)
 
 #### NTU DB
 * The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2016  
