@@ -14,10 +14,10 @@ IEEE Robotics and Automation Letters, 2019 [[paper]](https://sites.google.com/vi
 Kundu, Jogendra Nath, et al. IEEE Winter Conference on Applications of Computer Vision (WACV) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8658966)  
 
 - Effects of Hyper-Parameters for Deep Reinforcement Learning in Robotic Motion Mimicry: A Preliminary Study ★★★★★   
-Teawoo Kim, Joohaeng Lee, UR 2019
+Teawoo Kim, Joo-Haeng Lee, UR 2019
 
 - Teach Me: Three-phase learning framework for robotic motion imitation based on interactive teaching and reinforcement learning ★★★★★  
-Teawoo Kim, JooHaeng Lee, Ro-Man 2019 
+Teawoo Kim, Joo-Haeng Lee, Ro-Man 2019 
 
 ### 2018 
 [Virtual Reality, Demonstration, Mimicking, Teleoperation, Imitation Learning]  
