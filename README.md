@@ -9,9 +9,15 @@ NOTE: Please note that stars (★) are totally porsonal opinions based on the re
 - VR-Goggles for Robots: Real-to-sim Domain Adaptation for Visual Control ★★★★★  
 IEEE Robotics and Automation Letters, 2019 [[paper]](https://sites.google.com/view/zhang-tai-19ral-vrg/home)  
 
-[Human Motion, Deep learning]  
+[Human Robot Motion, Deep learning]  
 - Unsupervised Feature Learning of Human Actions as Trajectories in Pose Embedding Manifold ★★★☆☆  
 Kundu, Jogendra Nath, et al. IEEE Winter Conference on Applications of Computer Vision (WACV) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8658966)  
+
+- Effects of Hyper-Parameters for Deep Reinforcement Learning in Robotic Motion Mimicry: A Preliminary Study ★★★★★   
+Teawoo Kim, Joohaeng Lee, UR 2019
+
+- Teach Me: Three-phase learning framework for robotic motion imitation based on interactive teaching and reinforcement learning ★★★★★  
+Teawoo Kim, JooHaeng Lee, Ro-Man 2019 
 
 ### 2018 
 [Virtual Reality, Demonstration, Mimicking, Teleoperation, Imitation Learning]  
@@ -61,7 +67,11 @@ Elsevier Robotics and Autonomous Systems, 2004 [[paper]](https://www.sciencedire
 
 #### RobotriX virtual DB
 * The RobotriX 2019 - Photorealistic Indoor Synthetic Dataset for Deep Learning ★★★★★  
-[[Youtube link]](https://www.youtube.com/watch?time_continue=48&v=CiRc5tCtCak) [[paper]](https://arxiv.org/abs/1703.01270)
+[[Youtube link]](https://www.youtube.com/watch?time_continue=48&v=CiRc5tCtCak) [[paper]](https://arxiv.org/abs/1703.01270)  
+
+#### AiR Project DB
+* AiR Project by ETRI HRI research group [[Link]](https://ai4robot.github.io/)  
+* YouTube Gesture Dataset - Human poses data extracted from youTube video [[Github]](https://github.com/youngwoo-yoon/youtube-gesture-dataset)  
 
 #### NTU DB
 * The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2016  
