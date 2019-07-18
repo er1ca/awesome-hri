@@ -69,8 +69,7 @@ Elsevier Robotics and Autonomous Systems, 2004 [[paper]](https://www.sciencedire
 * The RobotriX 2019 - Photorealistic Indoor Synthetic Dataset for Deep Learning ★★★★★  
 [[Youtube link]](https://www.youtube.com/watch?time_continue=48&v=CiRc5tCtCak) [[paper]](https://arxiv.org/abs/1703.01270)  
 
-#### AiR Project DB
-* AiR Project by ETRI HRI research group [[Link]](https://ai4robot.github.io/)  
+#### AiR DB
 * YouTube Gesture Dataset - Human poses data extracted from youTube video [[Github]](https://github.com/youngwoo-yoon/youtube-gesture-dataset)  
 
 #### NTU DB
@@ -94,3 +93,7 @@ NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis
 : Unreal Documents http://api.unrealengine.com/KOR/index.html  
 : Video Tutorial https://academy.unrealengine.com/
 
+
+## Air Project 
+The AIR project began its exploration in 2017 to build artificial intelligence for human-care robots. The official title of the project is “Development of Human-care Robot Technology for Aging Society”. The project is funded by the Korean gevernment agency, called MSIP(Ministry of Science, ICT and Future Planning).
+* AiR Project by ETRI HRI research group [[Link]](https://ai4robot.github.io/)  
