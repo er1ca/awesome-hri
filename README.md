@@ -67,7 +67,7 @@ Elsevier Robotics and Autonomous Systems, 2004 [[paper]](https://www.sciencedire
 
 #### RobotriX virtual DB
 * The RobotriX 2019 - Photorealistic Indoor Synthetic Dataset for Deep Learning ★★★★★  
-[[Youtube link]](https://www.youtube.com/watch?time_continue=48&v=CiRc5tCtCak) [[paper]](https://arxiv.org/abs/1703.01270)  
+[[Youtube link]](https://www.youtube.com/watch?time_continue=48&v=CiRc5tCtCak) [[paper]](https://arxiv.org/abs/1901.06514)  
 
 #### AiR DB
 * YouTube Gesture Dataset - Human poses data extracted from youTube video [[Github]](https://github.com/youngwoo-yoon/youtube-gesture-dataset)  
