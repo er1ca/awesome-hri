@@ -9,6 +9,9 @@ NOTE: Please note that stars (★) are totally porsonal opinions based on the re
 - VR-Goggles for Robots: Real-to-sim Domain Adaptation for Visual Control ★★★★★  
 IEEE Robotics and Automation Letters, 2019 [[paper]](https://sites.google.com/view/zhang-tai-19ral-vrg/home)  
 
+- Learning Latent Plans from Play ★★★★★  
+arxiv, Robotics, 2019 [[paper]](https://arxiv.org/abs/1903.01973) [[link]](https://learning-from-play.github.io/)
+
 [Human Robot Motion, Deep learning]  
 - Unsupervised Feature Learning of Human Actions as Trajectories in Pose Embedding Manifold ★★★☆☆  
 Kundu, Jogendra Nath, et al. IEEE Winter Conference on Applications of Computer Vision (WACV) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8658966)  
