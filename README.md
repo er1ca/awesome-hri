@@ -78,8 +78,10 @@ NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis
 [[paper]](https://arxiv.org/pdf/1604.02808.pdf) [[Dataset]](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp)  
 
 #### CMU Mocap DB
-* CMU Mocap dataset: [[Dataset]](http://mocap.cs.cmu.edu/)  
+* CMU Mocap dataset [[Dataset]](http://mocap.cs.cmu.edu/)  
 
+#### HDM05 Motion Capture DB 
+Motion Capture data HDM05 (2007) [[paper]](http://resources.mpi-inf.mpg.de/HDM05/07_MuRoClEbKrWe_HDM05.pdf) [[Dataset]](http://resources.mpi-inf.mpg.de/HDM05/)  
 
 ## VR Simulator
 *  habitat-api
