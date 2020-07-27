@@ -1,4 +1,4 @@
-# Awesome Human Robot Interaction
+# Awesome Human Robot Interaction with VR
 
 
 ## Papers
